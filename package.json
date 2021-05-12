@@ -14,7 +14,7 @@
     "axios": "^0.19.2",
     "bootstrap": "^4.4.1",
     "bootstrap-vue": "^2.11.0",
-    "codemirror": "^5.52.2",
+    "codemirror": "^5.58.2",
     "core-js": "^3.6.4",
     "markdown-table": "^2.0.0",
     "vue": "^2.6.11"
